@@ -1,6 +1,6 @@
 # Evidencias — Recetario UTEZ
 
-**Nombre:** 
+**Nombre:** Cristian Amauri Gonzaga Castañeda
 **Matrícula:** 20233tn102
 **Fecha:** 11 de noviembre de 2026
 **Dispositivo donde se probó:** Emulador Android (Pixel_10, Android API 37, x86_64) en Linux
